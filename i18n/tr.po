@@ -1,0 +1,23 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# * partner_social_fields
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: partner-social-fields (9.0)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-06 01:36+0000\n"
+"PO-Revision-Date: 2016-05-06 17:07+0000\n"
+"Last-Translator: OCA Transbot <transbot@odoo-community.org>\n"
+"Language-Team: Turkish (http://www.transifex.com/oca/OCA-partner-social-fields-9-0/language/tr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Language: tr\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. module: partner_social_fileds
+#: model:ir.ui.menu,name:partner_sector.menu_res_partner_social_field
+msgid "Social"
+msgstr "Sosyal"
